@@ -352,9 +352,8 @@ void login()
     {
             system("clear");
             printf("\033[1;32m");
-            printf("\t\t\t\t\tLogin successfully!!");
             printf("\033[0m");
-            //printf("\v\v\t\t\t--Welcome to the Hritik Departmental Store--\n");
+            //printf("\v\v\t\t\t--Welcome to star Departmental Store--\n");
             options();
     }
 } //end of login function
@@ -450,7 +449,7 @@ void saleProduct()
 
 void options()
 {
-    printf("\v\n\v\t\t\t\t\t\t\t\t--Hritik Departmental Store--\n");
+    printf("\v\n\v\t\t\t\t\t\t\t\t--Star Departmental Store--\n");
     printf("\t\t\t\t\t\t\t\t**********************************\n");
     int num, choice;
     while (1)
